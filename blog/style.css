@@ -84,7 +84,7 @@ article {
 }
 
 .article-image img {
-    max-width: 100%;
+    max-width: 40%;
     height: auto;
     float: left;
     margin: 0 20px 20px 0;
@@ -120,7 +120,7 @@ time {
 }
 
 .subsection figure {
-    width: 32%;
+    width: 30%;
     text-align: center;
 }
 
@@ -172,7 +172,7 @@ aside h3 {
 }
 
 aside img {
-    width: 100%;
+    width: 90%;
     height: auto;
     display: block;
     margin-bottom: 10px;
